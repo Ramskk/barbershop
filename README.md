@@ -7,6 +7,11 @@ if cant login
 
 app ini sudah cukup proper dilengkapi dengan soft delete, autentikasi, backup dan restore data, export excel
 
+PLUGIN YANG DIGUNAKAN
+
+<img width="323" height="184" alt="image" src="https://github.com/user-attachments/assets/616efe74-c3b6-4d9f-9441-b502a010493e" />
+
+
 link demo https://drive.google.com/drive/folders/1IJXYLQD-ynbcs6RJVv2IKvLOfK7_60t7?usp=sharing
 
 LOGIN PAGE
