@@ -13,8 +13,9 @@ LOGIN PAGE
 <img width="390" height="849" alt="image" src="https://github.com/user-attachments/assets/838ff1ea-51d3-483d-bd5c-4a2c73241cd0" />
 HALAMAN UTAMA
 <img width="400" height="863" alt="image" src="https://github.com/user-attachments/assets/e0d47758-25d9-4862-9944-f0233d9b0bdc" />
-TRANSAKSI
+TRANSAKSI 1
 <img width="386" height="846" alt="image" src="https://github.com/user-attachments/assets/64325401-6145-4e20-a494-479338c22381" />
+RINGKASAN PESANAN
 <img width="394" height="849" alt="image" src="https://github.com/user-attachments/assets/cc7df1f5-9303-4000-9a50-31a1cb4bd0fe" />
 LAPORAN PENJUALAN
 <img width="401" height="853" alt="image" src="https://github.com/user-attachments/assets/c478c297-dfa8-46b6-9dbb-4efc12ae91c7" />
