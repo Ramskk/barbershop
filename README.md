@@ -48,3 +48,21 @@ PRODUK
 AKUN ADMIN
 
 <img width="391" height="852" alt="image" src="https://github.com/user-attachments/assets/270d0319-cb2b-4a78-a9b9-22cc2ae18f51" />
+
+BACKUP DB
+
+<img width="390" height="848" alt="image" src="https://github.com/user-attachments/assets/1bf61740-6089-445e-90e0-e57992852220" />
+
+FOLDER BACKED UP DB DAN EXCEL
+
+<img width="397" height="858" alt="image" src="https://github.com/user-attachments/assets/c08af11e-e2af-432c-912a-e738ce1bb3fa" />
+
+RESTORED DB
+
+<img width="388" height="849" alt="image" src="https://github.com/user-attachments/assets/eb550d55-537a-4cbf-936d-a50c71d38620" />
+
+AUTENTIKASI YANG DIGUNAKAN HASH256
+
+<img width="854" height="629" alt="image" src="https://github.com/user-attachments/assets/82ead493-3b18-41ed-89fd-4c793bea73cf" />
+
+
