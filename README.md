@@ -51,7 +51,7 @@ PRODUK DENGAN HARGA
 
 <img width="395" height="861" alt="image" src="https://github.com/user-attachments/assets/9ccb65a5-ea00-42b0-95a2-08efe288f64f" />
 
-AKUN ADMIN BISA DIGANTI PASSOWRDNYA
+AKUN ADMIN BISA DIGANTI PASSOWORDNYA
 
 <img width="391" height="852" alt="image" src="https://github.com/user-attachments/assets/270d0319-cb2b-4a78-a9b9-22cc2ae18f51" />
 
